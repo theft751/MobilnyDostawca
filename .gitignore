@@ -1,0 +1,24 @@
+# Mobile App
+mobileApp/node_modules
+mobileApp/.expo
+mobileApp/.expo-shared
+mobileApp/dist/
+mobileApp/npm-debug.*
+mobileApp/*.jks
+mobileApp/*.p8
+mobileApp/*.p12
+mobileApp/*.key
+mobileApp/*.mobileprovision
+mobileApp/*.orig.*
+mobileApp/web-build/
+
+# Backend
+backend/bin/
+backend/obj/
+backend/*.user
+backend/.vs/
+
+.vs/
+
+
+
